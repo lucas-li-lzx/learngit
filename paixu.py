@@ -11,5 +11,6 @@ for a in range(len(list_01)-1):
         if list_01[b] > list_01[b+1]:
             list_01[b],list_01[b+1] = list_01[b+1],list_01[b]
 print(list_01)
+print(list_01)
 
 
